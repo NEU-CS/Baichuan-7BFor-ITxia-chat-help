@@ -2,7 +2,7 @@
 该模型由百川智能Baichuan-7b-chat模型fine-tune而来，仓库里只有Lora adapter weights
 
 # 数据集来源
-数据集来自南京大学IT侠帮助群，数据截取了2023年至今的问答  
+数据集来自南京大学IT侠帮助群，数据截取了2023年至2024-3月的问答  
 
 # Direct Use
 
